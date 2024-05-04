@@ -8,8 +8,6 @@ from typing import Optional
 import os
 import sqlite3
 
-from dotenv import load_dotenv
-
 load_dotenv()
 
 # Initialize FastAPI app
